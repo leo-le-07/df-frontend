@@ -1,0 +1,23 @@
+<div id="booking" class="page-layout simple fullwidth doc-page" layout="column">
+    <!-- CONTENT -->
+    <div class="content" layout="column">
+
+        <!-- STEPPER -->
+        <form name="stepper" ms-stepper ng-submit="vm.submitStepper()" ng-model="vm.stepper" novalidate>
+            <ms-stepper-step ng-form="step1" step="1" step-title="'Tìm kiếm'">
+                <div ng-include="'app/main/sample/steps/step1.html'"></div>
+            </ms-stepper-step>
+
+            <ms-stepper-step ng-form="step2" step="2" step-title="'Address'" optional-step>
+                <div ng-include="'app/main/sample/steps/step2.html'"></div>
+            </ms-stepper-step>
+
+            <ms-stepper-step ng-form="step3" step="3" step-title="'Payment Method'">
+                <div ng-include="'app/main/sample/steps/step3.html'"></div>
+            </ms-stepper-step>
+        </form>
+        <!-- / STEPPER -->
+    </div>
+    <!-- / CONTENT -->
+
+</div>

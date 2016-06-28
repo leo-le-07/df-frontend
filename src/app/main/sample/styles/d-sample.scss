@@ -1,0 +1,13 @@
+md-autocomplete[md-floating-label] {
+  height: 60px;
+}
+md-autocomplete[md-floating-label] md-input-container {
+  padding-bottom: 0;
+  margin-bottom : 0;
+}
+
+@media (max-width: 679px){
+  .page-layout.simple.fullwidth > .content {
+    padding: 0;
+  }
+}
