@@ -6,7 +6,16 @@ md-autocomplete[md-floating-label] md-input-container {
   margin-bottom : 0;
 }
 
+.md-virtual-repeat-container.md-autocomplete-suggestions-container {
+  margin-top: 17px;
+}
+
+.md-toolbar-tools {
+  font-size: .8em;
+}
+
 @media (max-width: 679px){
+  // Remove padding for page-layout
   .page-layout.simple.fullwidth > .content {
     padding: 0;
   }

@@ -1,0 +1,1044 @@
+{
+  "data": {
+    "routes":[
+      {
+        "oriPlace":{
+          "code":"BMV",
+          "name":"Buôn Ma Thuột",
+          "nameUnsigned":"Buon Ma Thuot",
+          "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HPH",
+            "name":"Hải Phòng",
+            "nameUnsigned":"Hai Phong",
+            "nameUnsignedCode":"Hai Phong (HPH)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"THD",
+            "name":"Thanh Hóa",
+            "nameUnsigned":"Thanh Hoa",
+            "nameUnsignedCode":"Thanh Hoa (THD)"
+          },
+          {
+            "code":"VCL",
+            "name":"Chu Lai",
+            "nameUnsigned":"Chu Lai",
+            "nameUnsignedCode":"Chu Lai (VCL)"
+          },
+          {
+            "code":"VDH",
+            "name":"Đồng Hới",
+            "nameUnsigned":"Dong Hoi",
+            "nameUnsignedCode":"Dong Hoi (VDH)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"CAH",
+          "name":"Cà Mau",
+          "nameUnsigned":"Ca Mau",
+          "nameUnsignedCode":"Ca Mau (CAH)"
+        },
+        "desPlaces":[
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"CXR",
+          "name":"Nha Trang",
+          "nameUnsigned":"Nha Trang",
+          "nameUnsignedCode":"Nha Trang (CXR)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"UIH",
+            "name":"Quy Nhơn",
+            "nameUnsigned":"Quy Nhon",
+            "nameUnsignedCode":"Quy Nhon (UIH)"
+          },
+          {
+            "code":"VDH",
+            "name":"Đồng Hới",
+            "nameUnsigned":"Dong Hoi",
+            "nameUnsignedCode":"Dong Hoi (VDH)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"DAD",
+          "name":"Đà Nẵng",
+          "nameUnsigned":"Da Nang",
+          "nameUnsignedCode":"Da Nang (DAD)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"CXR",
+            "name":"Nha Trang",
+            "nameUnsigned":"Nha Trang",
+            "nameUnsignedCode":"Nha Trang (CXR)"
+          },
+          {
+            "code":"DLI",
+            "name":"Đà Lạt",
+            "nameUnsigned":"Da Lat",
+            "nameUnsignedCode":"Da Lat (DLI)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HPH",
+            "name":"Hải Phòng",
+            "nameUnsigned":"Hai Phong",
+            "nameUnsignedCode":"Hai Phong (HPH)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"PXU",
+            "name":"Pleiku",
+            "nameUnsigned":"Pleiku",
+            "nameUnsignedCode":"Pleiku (PXU)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"TBB",
+            "name":"Tuy Hòa",
+            "nameUnsigned":"Tuy Hoa",
+            "nameUnsignedCode":"Tuy Hoa (TBB)"
+          },
+          {
+            "code":"VCA",
+            "name":"Cần Thơ",
+            "nameUnsigned":"Can Tho",
+            "nameUnsignedCode":"Can Tho (VCA)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"DIN",
+          "name":"Điện Biên",
+          "nameUnsigned":"Dien Bien",
+          "nameUnsignedCode":"Dien Bien (DIN)"
+        },
+        "desPlaces":[
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"DLI",
+          "name":"Đà Lạt",
+          "nameUnsigned":"Da Lat",
+          "nameUnsignedCode":"Da Lat (DLI)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HUI",
+            "name":"Huế",
+            "nameUnsigned":"Hue",
+            "nameUnsignedCode":"Hue (HUI)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"HAN",
+          "name":"Hà Nội",
+          "nameUnsigned":"Ha Noi",
+          "nameUnsignedCode":"Ha Noi (HAN)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"CXR",
+            "name":"Nha Trang",
+            "nameUnsigned":"Nha Trang",
+            "nameUnsignedCode":"Nha Trang (CXR)"
+          },
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"DIN",
+            "name":"Điện Biên",
+            "nameUnsigned":"Dien Bien",
+            "nameUnsignedCode":"Dien Bien (DIN)"
+          },
+          {
+            "code":"DLI",
+            "name":"Đà Lạt",
+            "nameUnsigned":"Da Lat",
+            "nameUnsignedCode":"Da Lat (DLI)"
+          },
+          {
+            "code":"HUI",
+            "name":"Huế",
+            "nameUnsigned":"Hue",
+            "nameUnsignedCode":"Hue (HUI)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"PXU",
+            "name":"Pleiku",
+            "nameUnsigned":"Pleiku",
+            "nameUnsignedCode":"Pleiku (PXU)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"TBB",
+            "name":"Tuy Hòa",
+            "nameUnsigned":"Tuy Hoa",
+            "nameUnsignedCode":"Tuy Hoa (TBB)"
+          },
+          {
+            "code":"UIH",
+            "name":"Quy Nhơn",
+            "nameUnsigned":"Quy Nhon",
+            "nameUnsignedCode":"Quy Nhon (UIH)"
+          },
+          {
+            "code":"VCA",
+            "name":"Cần Thơ",
+            "nameUnsigned":"Can Tho",
+            "nameUnsignedCode":"Can Tho (VCA)"
+          },
+          {
+            "code":"VCL",
+            "name":"Chu Lai",
+            "nameUnsigned":"Chu Lai",
+            "nameUnsignedCode":"Chu Lai (VCL)"
+          },
+          {
+            "code":"VDH",
+            "name":"Đồng Hới",
+            "nameUnsigned":"Dong Hoi",
+            "nameUnsignedCode":"Dong Hoi (VDH)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"HPH",
+          "name":"Hải Phòng",
+          "nameUnsigned":"Hai Phong",
+          "nameUnsignedCode":"Hai Phong (HPH)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"TBB",
+            "name":"Tuy Hòa",
+            "nameUnsigned":"Tuy Hoa",
+            "nameUnsignedCode":"Tuy Hoa (TBB)"
+          },
+          {
+            "code":"UIH",
+            "name":"Quy Nhơn",
+            "nameUnsigned":"Quy Nhon",
+            "nameUnsignedCode":"Quy Nhon (UIH)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"HUI",
+          "name":"Huế",
+          "nameUnsigned":"Hue",
+          "nameUnsignedCode":"Hue (HUI)"
+        },
+        "desPlaces":[
+          {
+            "code":"DLI",
+            "name":"Đà Lạt",
+            "nameUnsigned":"Da Lat",
+            "nameUnsignedCode":"Da Lat (DLI)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"PQC",
+          "name":"Phú Quốc",
+          "nameUnsigned":"Phu Quoc",
+          "nameUnsignedCode":"Phu Quoc (PQC)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HUI",
+            "name":"Huế",
+            "nameUnsigned":"Hue",
+            "nameUnsignedCode":"Hue (HUI)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"TBB",
+            "name":"Tuy Hòa",
+            "nameUnsigned":"Tuy Hoa",
+            "nameUnsignedCode":"Tuy Hoa (TBB)"
+          },
+          {
+            "code":"THD",
+            "name":"Thanh Hóa",
+            "nameUnsigned":"Thanh Hoa",
+            "nameUnsignedCode":"Thanh Hoa (THD)"
+          },
+          {
+            "code":"UIH",
+            "name":"Quy Nhơn",
+            "nameUnsigned":"Quy Nhon",
+            "nameUnsignedCode":"Quy Nhon (UIH)"
+          },
+          {
+            "code":"VCA",
+            "name":"Cần Thơ",
+            "nameUnsigned":"Can Tho",
+            "nameUnsignedCode":"Can Tho (VCA)"
+          },
+          {
+            "code":"VDH",
+            "name":"Đồng Hới",
+            "nameUnsigned":"Dong Hoi",
+            "nameUnsignedCode":"Dong Hoi (VDH)"
+          },
+          {
+            "code":"VKG",
+            "name":"Rạch Giá",
+            "nameUnsigned":"Rach Gia",
+            "nameUnsignedCode":"Rach Gia (VKG)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"PXU",
+          "name":"Pleiku",
+          "nameUnsigned":"Pleiku",
+          "nameUnsignedCode":"Pleiku (PXU)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"SGN",
+          "name":"Hồ Chí Minh",
+          "nameUnsigned":"Ho Chi Minh",
+          "nameUnsignedCode":"Ho Chi Minh (SGN)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"CAH",
+            "name":"Cà Mau",
+            "nameUnsigned":"Ca Mau",
+            "nameUnsignedCode":"Ca Mau (CAH)"
+          },
+          {
+            "code":"CXR",
+            "name":"Nha Trang",
+            "nameUnsigned":"Nha Trang",
+            "nameUnsignedCode":"Nha Trang (CXR)"
+          },
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"DLI",
+            "name":"Đà Lạt",
+            "nameUnsigned":"Da Lat",
+            "nameUnsignedCode":"Da Lat (DLI)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HPH",
+            "name":"Hải Phòng",
+            "nameUnsigned":"Hai Phong",
+            "nameUnsignedCode":"Hai Phong (HPH)"
+          },
+          {
+            "code":"HUI",
+            "name":"Huế",
+            "nameUnsigned":"Hue",
+            "nameUnsignedCode":"Hue (HUI)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"PXU",
+            "name":"Pleiku",
+            "nameUnsigned":"Pleiku",
+            "nameUnsignedCode":"Pleiku (PXU)"
+          },
+          {
+            "code":"TBB",
+            "name":"Tuy Hòa",
+            "nameUnsigned":"Tuy Hoa",
+            "nameUnsignedCode":"Tuy Hoa (TBB)"
+          },
+          {
+            "code":"THD",
+            "name":"Thanh Hóa",
+            "nameUnsigned":"Thanh Hoa",
+            "nameUnsignedCode":"Thanh Hoa (THD)"
+          },
+          {
+            "code":"UIH",
+            "name":"Quy Nhơn",
+            "nameUnsigned":"Quy Nhon",
+            "nameUnsignedCode":"Quy Nhon (UIH)"
+          },
+          {
+            "code":"VCL",
+            "name":"Chu Lai",
+            "nameUnsigned":"Chu Lai",
+            "nameUnsignedCode":"Chu Lai (VCL)"
+          },
+          {
+            "code":"VCS",
+            "name":"Côn Đảo",
+            "nameUnsigned":"Con Dao",
+            "nameUnsignedCode":"Con Dao (VCS)"
+          },
+          {
+            "code":"VDH",
+            "name":"Đồng Hới",
+            "nameUnsigned":"Dong Hoi",
+            "nameUnsignedCode":"Dong Hoi (VDH)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          },
+          {
+            "code":"VKG",
+            "name":"Rạch Giá",
+            "nameUnsigned":"Rach Gia",
+            "nameUnsignedCode":"Rach Gia (VKG)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"TBB",
+          "name":"Tuy Hòa",
+          "nameUnsigned":"Tuy Hoa",
+          "nameUnsignedCode":"Tuy Hoa (TBB)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HPH",
+            "name":"Hải Phòng",
+            "nameUnsigned":"Hai Phong",
+            "nameUnsignedCode":"Hai Phong (HPH)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"VII",
+            "name":"Vinh",
+            "nameUnsigned":"Vinh",
+            "nameUnsignedCode":"Vinh (VII)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"THD",
+          "name":"Thanh Hóa",
+          "nameUnsigned":"Thanh Hoa",
+          "nameUnsignedCode":"Thanh Hoa (THD)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"VDH",
+            "name":"Đồng Hới",
+            "nameUnsigned":"Dong Hoi",
+            "nameUnsignedCode":"Dong Hoi (VDH)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"UIH",
+          "name":"Quy Nhơn",
+          "nameUnsigned":"Quy Nhon",
+          "nameUnsignedCode":"Quy Nhon (UIH)"
+        },
+        "desPlaces":[
+          {
+            "code":"CXR",
+            "name":"Nha Trang",
+            "nameUnsigned":"Nha Trang",
+            "nameUnsignedCode":"Nha Trang (CXR)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"HPH",
+            "name":"Hải Phòng",
+            "nameUnsigned":"Hai Phong",
+            "nameUnsignedCode":"Hai Phong (HPH)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"VCA",
+          "name":"Cần Thơ",
+          "nameUnsigned":"Can Tho",
+          "nameUnsignedCode":"Can Tho (VCA)"
+        },
+        "desPlaces":[
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"VCS",
+            "name":"Côn Đảo",
+            "nameUnsigned":"Con Dao",
+            "nameUnsignedCode":"Con Dao (VCS)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"VCL",
+          "name":"Chu Lai",
+          "nameUnsigned":"Chu Lai",
+          "nameUnsignedCode":"Chu Lai (VCL)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"VCS",
+          "name":"Côn Đảo",
+          "nameUnsigned":"Con Dao",
+          "nameUnsignedCode":"Con Dao (VCS)"
+        },
+        "desPlaces":[
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"VCA",
+            "name":"Cần Thơ",
+            "nameUnsigned":"Can Tho",
+            "nameUnsignedCode":"Can Tho (VCA)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"VDH",
+          "name":"Đồng Hới",
+          "nameUnsigned":"Dong Hoi",
+          "nameUnsignedCode":"Dong Hoi (VDH)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"CXR",
+            "name":"Nha Trang",
+            "nameUnsigned":"Nha Trang",
+            "nameUnsignedCode":"Nha Trang (CXR)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"THD",
+            "name":"Thanh Hóa",
+            "nameUnsigned":"Thanh Hoa",
+            "nameUnsignedCode":"Thanh Hoa (THD)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"VII",
+          "name":"Vinh",
+          "nameUnsigned":"Vinh",
+          "nameUnsignedCode":"Vinh (VII)"
+        },
+        "desPlaces":[
+          {
+            "code":"BMV",
+            "name":"Buôn Ma Thuột",
+            "nameUnsigned":"Buon Ma Thuot",
+            "nameUnsignedCode":"Buon Ma Thuot (BMV)"
+          },
+          {
+            "code":"CXR",
+            "name":"Nha Trang",
+            "nameUnsigned":"Nha Trang",
+            "nameUnsignedCode":"Nha Trang (CXR)"
+          },
+          {
+            "code":"DAD",
+            "name":"Đà Nẵng",
+            "nameUnsigned":"Da Nang",
+            "nameUnsignedCode":"Da Nang (DAD)"
+          },
+          {
+            "code":"DLI",
+            "name":"Đà Lạt",
+            "nameUnsigned":"Da Lat",
+            "nameUnsignedCode":"Da Lat (DLI)"
+          },
+          {
+            "code":"HAN",
+            "name":"Hà Nội",
+            "nameUnsigned":"Ha Noi",
+            "nameUnsignedCode":"Ha Noi (HAN)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          },
+          {
+            "code":"TBB",
+            "name":"Tuy Hòa",
+            "nameUnsigned":"Tuy Hoa",
+            "nameUnsignedCode":"Tuy Hoa (TBB)"
+          }
+        ]
+      },
+      {
+        "oriPlace":{
+          "code":"VKG",
+          "name":"Rạch Giá",
+          "nameUnsigned":"Rach Gia",
+          "nameUnsignedCode":"Rach Gia (VKG)"
+        },
+        "desPlaces":[
+          {
+            "code":"PQC",
+            "name":"Phú Quốc",
+            "nameUnsigned":"Phu Quoc",
+            "nameUnsignedCode":"Phu Quoc (PQC)"
+          },
+          {
+            "code":"SGN",
+            "name":"Hồ Chí Minh",
+            "nameUnsigned":"Ho Chi Minh",
+            "nameUnsignedCode":"Ho Chi Minh (SGN)"
+          }
+        ]
+      }
+    ],
+    "checkedLuggages":[
+      {
+        "VNA": [
+          {
+            "weight":20,
+            "price" :0
+          }
+        ]
+      }, {
+        "JET": [
+          {
+            "weight":0,
+            "price" :0
+          },
+          {
+            "weight":15,
+            "price":150000
+          },
+          {
+            "weight":20,
+            "price":170000
+          },
+          {
+            "weight":25,
+            "price":230000
+          },
+          {
+            "weight":30,
+            "price":300000
+          },
+          {
+            "weight":35,
+            "price":350000
+          },
+          {
+            "weight":40,
+            "price":400000
+          }
+        ]
+      }, {
+        "VJE": [
+          {
+            "weight":0,
+            "price" :0
+          },
+          {
+            "weight":15,
+            "price" :143000
+          },
+          {
+            "weight":20,
+            "price" :165000
+          },
+          {
+            "weight":25,
+            "price" :220000
+          },
+          {
+            "weight":30,
+            "price" :330000
+          },
+          {
+            "weight":35,
+            "price" :385000
+          },
+          {
+            "weight":40,
+            "price" :440000
+          }
+        ]
+      }
+    ]
+  }
+}

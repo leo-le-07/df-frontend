@@ -1,0 +1,81 @@
+<div class="md-inline-form">
+  <div layout="column" layout-gt-xs="row" flex>
+    <md-autocomplete flex
+                     md-no-cache="true"
+                     md-autoselect="true"
+                     md-selected-item="vm.oriPlace"
+                     md-search-text="vm.oriSearchText"
+                     md-selected-item-change="vm.selectedOriPlaceChange(item)"
+                     md-items="item in vm.queryOriPlace(vm.oriSearchText)"
+                     md-item-text="item.nameUnsignedCode"
+                     md-min-length="0"
+                     placeholder="Điểm đi">
+      <md-item-template>
+        <span md-highlight-text="vm.oriSearchText" md-highlight-flags="^i">{{item.name}} ({{item.code}})</span>
+      </md-item-template>
+      <md-not-found>
+        ÉC! Không tìm thấy địa điểm.
+      </md-not-found>
+    </md-autocomplete>
+    <md-autocomplete flex
+                     md-no-cache="true"
+                     md-autoselect="false"
+                     md-selected-item="vm.desPlace"
+                     md-search-text="vm.desSearchText"
+                     md-selected-item-change="vm.selectedDesPlaceChange(item)"
+                     md-items="item in vm.queryDesPlace(vm.desSearchText)"
+                     md-item-text="item.nameUnsignedCode"
+                     md-min-length="0"
+                     placeholder="Điểm đến">
+      <md-item-template>
+        <span md-highlight-text="vm.desSearchText" md-highlight-flags="^i">{{item.name}} ({{item.code}})</span>
+      </md-item-template>
+      <md-not-found>
+        ÉC! Không tìm thấy địa điểm.
+      </md-not-found>
+    </md-autocomplete>
+  </div>
+  <div layout="column" layout-gt-xs="row" flex>
+    <md-switch ng-model="vm.roundTrip" aria-label="Khứ hồi">
+      Khứ hồi
+    </md-switch>
+  </div>
+  <div layout="column" layout-gt-xs="row" flex>
+    <md-input-container class="md-block" flex>
+      <label>Ngày đi</label>
+      <input type="text" pick-a-date="vm.departDate" min-date="vm.today" class="d-pickadate">
+    </md-input-container>
+
+    <md-input-container class="md-block" flex>
+      <label>Ngày về</label>
+      <input id="returnDatePicker" type="text" pick-a-date="vm.returnDate" min-date="vm.departDate"
+             ng-disabled="!vm.isRoundTrip(vm.roundTrip)" class="d-pickadate">
+    </md-input-container>
+  </div>
+  <div layout="column" layout-gt-xs="row" flex>
+    <md-input-container class="md-block" flex>
+      <label>Người lớn (&gt;11)</label>
+      <md-select name="adultNum" ng-model="vm.adultNum" ng-change="vm.changeAdultNum()">
+        <md-option ng-repeat="value in vm.adultNums" value="{{value}}">
+          {{value}}
+        </md-option>
+      </md-select>
+    </md-input-container>
+    <md-input-container class="md-block" flex>
+      <label>Trẻ em (2-11)</label>
+      <md-select name="childNum" ng-model="vm.childNum" ng-change="vm.changeChildNum()">
+        <md-option ng-repeat="value in vm.childNums" value="{{value}}">
+          {{value}}
+        </md-option>
+      </md-select>
+    </md-input-container>
+    <md-input-container class="md-block" flex>
+      <label>Em bé (&lt;2)</label>
+      <md-select name="infantNum" ng-model="vm.infantNum">
+        <md-option ng-repeat="value in vm.infantNums" value="{{value}}">
+          {{value}}
+        </md-option>
+      </md-select>
+    </md-input-container>
+  </div>
+</div>

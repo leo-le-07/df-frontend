@@ -1,0 +1,64 @@
+<div id="booking" class="page-layout simple fullwidth doc-page" layout="row">
+  <!-- CONTENT -->
+  <md-content layout="column" flex="100" flex-gt-sm="80" layout-padding layout-align="start stretch">
+    <!-- STEPPER -->
+    <form name="stepper" ms-stepper ng-submit="vm.submitStepper()" ng-model="vm.stepper" novalidate>
+      <!-- <ms-stepper-step ng-form="step1" step="1" step-title="'Tìm kiếm'">
+        <div ui-view="search"></div>
+      </ms-stepper-step> -->
+
+      <ms-stepper-step ng-form="step2" step="2" step-title="'Chọn chuyến bay'">
+        <div ui-view="flight"></div>
+      </ms-stepper-step>
+
+      <ms-stepper-step ng-form="step3" step="3" step-title="'Thông tin hành khách'">
+        <div ui-view="pax"></div>
+      </ms-stepper-step>
+
+      <ms-stepper-step ng-form="step4" step="4" step-title="'Hoàn thành'">
+        <div ui-view="summary"></div>
+      </ms-stepper-step>
+    </form>
+    <!-- / STEPPER -->
+  </md-content>
+  <!-- / CONTENT -->
+  <!-- SIDENAV RIGHT -->
+  <md-sidenav layout="column" flex hide show-gt-sm layout-align="start stretch"
+      class="md-sidenav-right"
+      md-component-id="right"
+      md-is-locked-open="true"
+      md-disable-backdrop="false">
+    <md-toolbar md-medium-tall>
+      <h3 class="md-toolbar-tools">Tóm tắt đặt chỗ</h3>
+    </md-toolbar>
+    <md-content layout-padding>
+      <p>
+        Chuyến bay Khứ hồi
+      </p>
+      <p>
+        Từ Hồ Chí Minh (SGN)
+      </p>
+      <p>
+        Đến Hà Nội (HAN)
+      </p>
+      <p>
+        Khởi hành Thứ hai, 04/07/2016
+      </p>
+      <p>
+        Trở về Thứ bảy, 05/07/2016
+      </p>
+      <p>
+        Hành khách 1 người lớn + 1 trẻ em (từ 2 đến dưới 12 tuổi) + 1 em bé (dưới 2 tuổi)
+      </p>
+    </md-content>
+    <md-toolbar md-medium-tall>
+      <h3 class="md-toolbar-tools">Giá vé (đã gồm đầy đủ thuế &amp; phí)</h3>
+    </md-toolbar>
+    <md-content layout-padding>
+      <p>
+        Vui lòng chọn chuyến bay
+      </p>
+    </md-content>
+  </md-sidenav>
+  <!-- / SIDENAV RIGHT -->
+</div>

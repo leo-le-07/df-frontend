@@ -180,7 +180,7 @@
         // Base Url
         api.baseUrl = 'app/data/';
 
-        // api.sample = $resource(api.baseUrl + 'sample/sample.json');
+        // api.booking = $resource(api.baseUrl + 'booking/booking.json');
 
         return api;
     }
